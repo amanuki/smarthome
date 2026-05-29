@@ -1,6 +1,6 @@
 # Smart Home System (MVP)
 
-This is a simple console-based program written in Java that simulates a smart home system. It allows you to check the status of household devices like light, thermostat, and a camera and control them through an interactive menu.
+This is a simple console-based program that simulates a smart home system. It allows us to check the status of household devices like light, thermostat, and a camera and control them through an interactive menu.
 
 ---
 
